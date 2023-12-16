@@ -1,7 +1,7 @@
 @font-face {
   font-family: "QentoragaMonoline-Regular"; 
   // адрес шрифта и тип 
-  src: url("QentoragaMonoline-Regular.otf") format("truetype"); 
+  src: url("QentoragaMonoline-Regular.otf"); 
   font-style: normal; 
   font-weight: normal; 
 } 
