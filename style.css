@@ -1,11 +1,7 @@
-@font-face {
-  font-family: "QentoragaMonoline-Regular"; 
-  // адрес шрифта и тип 
-  src: url("QentoragaMonoline-Regular.otf"); 
-  font-style: normal; 
-  font-weight: normal; 
-} 
 p {
   color: red;
   font-family: 'QentoragaMonoline-Regular';
+}
+.back {
+   background: #404047;
 }
