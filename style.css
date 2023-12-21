@@ -2,3 +2,8 @@ p {
   color: red;
   font-family: 'QentoragaMonoline-Regular';
 }
+style {
+  float: left;
+  float: right;
+  float: none;
+}
