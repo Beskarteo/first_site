@@ -3,7 +3,5 @@ p {
   font-family: 'QentoragaMonoline-Regular';
 }
 style {
-  float: left;
-  float: right;
-  float: none;
+  height: 100%;
 }
