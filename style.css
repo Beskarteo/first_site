@@ -2,7 +2,7 @@ p {
   color: red;
   font-family: 'QentoragaMonoline-Regular';
 }
-style {
+.st {
   position: fixed;
   top: 0;
   left: 0;
