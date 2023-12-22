@@ -7,14 +7,14 @@ p {
   left: 0;
   right: 0;
 }
-a{
-display:inline-block;
+a {
+  display:inline-block;
 }
-.block{
-width:100px;
-height:60px;
-background:#292929;
-position: absolute;
-top: 0;
-right: 0;
+.block {
+  width:100px;
+  height:60px;
+  background:#292929;
+  position: absolute;
+  top: 0;
+  right: 0;
 }
