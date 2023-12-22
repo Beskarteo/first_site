@@ -14,7 +14,7 @@ display:inline-block;
 width:100px;
 height:60px;
 background:#292929;
-position: relative;
+position: absolute;
 top: 0;
 right: 0;
 }
