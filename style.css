@@ -8,3 +8,11 @@ p {
   left: 0;
   right: 0;
 }
+a{
+display:inline-block;
+}
+.block{
+width:200px;
+height:100px;
+background:#000000;
+}
